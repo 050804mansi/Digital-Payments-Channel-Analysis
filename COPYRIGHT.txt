@@ -1,0 +1,13 @@
+COPYRIGHT AND REUSE NOTICE
+
+Original project materials: © 2026 Mansi Saxena. All rights reserved.
+
+This notice applies to the original Python analysis, SQL query design, notebook, written interpretations, report layout and original charts/dashboard in this project. No license to copy, adapt, redistribute or republish those original materials is granted. Contact the author for permission: mansi53245@gmail.com.
+
+Author profiles:
+LinkedIn: https://www.linkedin.com/in/mansi-saxena-049102362
+GitHub: https://github.com/050804mansi
+
+This notice does not claim exclusive ownership of RBI statistics or source material. RBI values are attributed in DATA_SOURCES.md and remain subject to the publisher's applicable terms.
+
+A copyright notice records authorship and reuse terms but cannot technically prevent copying from a public repository. Keep the repository private if access itself must be restricted.
